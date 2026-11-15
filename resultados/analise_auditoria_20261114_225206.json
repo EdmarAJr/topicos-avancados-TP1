@@ -1,0 +1,402 @@
+{
+  "entendimento_da_auditoria": {
+    "objeto_da_auditoria": "Gestão e fiscalização dos contratos de terceirização de mão-de-obra no âmbito do Tribunal Regional do Trabalho da 5ª Região (TRT5).",
+    "objetivo_da_auditoria": "Avaliar se a gestão e fiscalização dos contratos de terceirização de mão-de-obra no TRT5 estão aderentes aos critérios e às boas práticas aplicáveis.",
+    "escopo_e_entregas_principais": [
+      "Gestão e fiscalização dos contratos de serviços terceirizados com dedicação exclusiva de mão de obra",
+      "Contratos de conservação, limpeza e higienização das dependências físicas das unidades do TRT5",
+      "Contratos de vigilância armada",
+      "Coordenadoria de Serviços de Apoio e Conservação (CSAC) e Coordenadoria de Segurança Institucional (CSI) como unidades gestoras e fiscalizadoras",
+      "Processo de contratação e execução dos serviços terceirizados",
+      "Conformidade com as normas e regulamentos aplicáveis",
+      "Otimização dos recursos públicos",
+      "Transparência e eficiência na utilização dos serviços terceirizados"
+    ],
+    "termos_chave_para_busca": [
+      "terceirização",
+      "mão-de-obra",
+      "contratos",
+      "fiscalização",
+      "gestão",
+      "serviços terceirizados",
+      "dedicação exclusiva",
+      "CSAC",
+      "CSI",
+      "Constituição Federal de 1988",
+      "Lei 14.133/2021",
+      "Lei 8.666/1993",
+      "Súmula TST 331",
+      "Plano Estratégico do TRT5",
+      "Governança de Contratações"
+    ],
+    "paginas_fonte": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14
+    ]
+  },
+  "alinhamento_orgao_superior": {
+    "instrumento": "Plano Estratégico do Conselho Superior",
+    "declaracao_ausencia": null,
+    "objetivos_identificados": [
+      {
+        "objetivo_estrategico": "Garantir a duração razoável do processo",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de processos julgados - IPJ",
+            "formula_ou_metrica": "Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente",
+            "meta": "2021: Meta Nacional 1: Julgar mais processos que os distribuídos - Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente.",
+            "periodo": "2021"
+          },
+          {
+            "nome_indicador": "Índice de processos julgados - IPJ",
+            "formula_ou_metrica": "Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente",
+            "meta": "2022: Meta Nacional 1: Julgar mais processos que os distribuídos - Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente. Cláusula de barreira: Taxa de Congestionamento Líquida na Fase de Conhecimento do Justiça em Números, em 2022, menor que 35%.",
+            "periodo": "2022"
+          },
+          {
+            "nome_indicador": "Índice de processos julgados - IPJ",
+            "formula_ou_metrica": "Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente",
+            "meta": "2023: Meta Nacional 1: julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente. Cláusula de barreira: Taxa de Congestionamento Líquida na Fase de Conhecimento do Justiça em Números, em 2023, menor que 35%.",
+            "periodo": "2023"
+          },
+          {
+            "nome_indicador": "Índice de processos julgados - IPJ",
+            "formula_ou_metrica": "Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente",
+            "meta": "2024: Meta Nacional 1: julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente. Cláusula de barreira: Taxa de Congestionamento Líquida na Fase de Conhecimento do Justiça em Números, em 2023, menor que 40%.",
+            "periodo": "2024"
+          },
+          {
+            "nome_indicador": "Índice de processos julgados - IPJ",
+            "formula_ou_metrica": "Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente",
+            "meta": "2025: Meta Nacional 1: Julgar quantidade maior de processos de conhecimento do que os distribuídos de 20/12/2024 a 19/12/2025, excluídos os suspensos e sobrestados de 20/12/2024 a 19/12/2025.",
+            "periodo": "2025"
+          },
+          {
+            "nome_indicador": "Índice de processos julgados - IPJ",
+            "formula_ou_metrica": "Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente",
+            "meta": "2026: Meta Nacional 1: Julgar quantidade maior de processos de conhecimento do que os distribuídos de 20/12/2025 a 19/12/2026, excluídos os suspensos e sobrestados de 20/12/2025 a 19/12/2026.",
+            "periodo": "2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Conselho Superior",
+          "localizacao": "Página 26",
+          "evidencia_literal": "Perspectiva Processos Internos\nObjetivo Estratégico Garantir a duração razoável do processo\nIndicadores Índice de processos julgados - IPJ\nMetas 2021: Meta Nacional 1: Julgar mais processos que os distribuídos - Julgar quantidade maior de processos de conhecimento do que os distribuídos no ano corrente, excluídos os suspensos e sobrestados no ano corrente.",
+          "justificativa": "O objetivo estratégico 'Garantir a duração razoável do processo' está relacionado à eficiência na tramitação de processos, o que é relevante para a gestão de contratos terceirizados, pois processos judiciais mais rápidos podem reduzir custos e melhorar a eficiência na utilização de serviços terceirizados."
+        }
+      },
+      {
+        "objetivo_estrategico": "Promover a integridade e a transparência em relação aos atos de gestão praticados",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de integridade – Iint",
+            "formula_ou_metrica": "Alcançar 100 pontos na avaliação de integridade e transparência",
+            "meta": "2024: Alcançar 100 pontos na avaliação de integridade e transparência",
+            "periodo": "2024"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Conselho Superior",
+          "localizacao": "Página 28",
+          "evidencia_literal": "Perspectiva Processos Internos\nObjetivo Estratégico Promover a integridade e a transparência em relação aos atos de gestão praticados\nIndicadores Índice de integridade – Iint\nMetas 2024: Alcançar 100 pontos na avaliação de integridade e transparência",
+          "justificativa": "A promoção da integridade e transparência é essencial para a fiscalização adequada de contratos terceirizados, garantindo que os processos de contratação e execução sejam realizados de forma ética e conforme as normas aplicáveis."
+        }
+      },
+      {
+        "objetivo_estrategico": "Assegurar o tratamento adequado dos conflitos trabalhistas",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de conciliação – IC",
+            "formula_ou_metrica": "Aumentar o índice de conciliação em relação à média do biênio",
+            "meta": "2021: Meta Nacional 3: Estimular a conciliação - Aumentar o índice de conciliação em relação à média do biênio 2018/2019, em 1 ponto percentual. Cláusula de barreira: 40%.",
+            "periodo": "2021"
+          },
+          {
+            "nome_indicador": "Índice de conciliação – IC",
+            "formula_ou_metrica": "Aumentar o índice de conciliação em relação à média do biênio",
+            "meta": "2022: Meta Nacional 3: aumentar o índice de conciliação em relação à média do biênio 2019/2020, em 1 ponto percentual. Cláusula de barreira: 40%",
+            "periodo": "2022"
+          },
+          {
+            "nome_indicador": "Índice de conciliação – IC",
+            "formula_ou_metrica": "Aumentar o índice de conciliação em relação à média do biênio",
+            "meta": "2023: Meta Nacional 3: aumentar o índice de conciliação em relação à média do biênio 2020/2021, em 1 ponto percentual. Cláusula de barreira: 40%.",
+            "periodo": "2023"
+          },
+          {
+            "nome_indicador": "Índice de conciliação – IC",
+            "formula_ou_metrica": "Aumentar o índice de conciliação em relação à média do biênio",
+            "meta": "2024: Meta Nacional 3: aumentar o índice de conciliação em 0,5 ponto percentual em relação à média do biênio 2021/2022 ou alcançar, no mínimo, 38% de conciliação.",
+            "periodo": "2024"
+          },
+          {
+            "nome_indicador": "Índice de conciliação – IC",
+            "formula_ou_metrica": "Aumentar o índice de conciliação em relação à média do biênio",
+            "meta": "2025: Meta Nacional 3: Aumentar o índice de conciliação em 0,5 ponto percentual em relação à média do biênio 2022/2023 ou alcançar, no mínimo, 38% de conciliação.",
+            "periodo": "2025"
+          },
+          {
+            "nome_indicador": "Índice de conciliação – IC",
+            "formula_ou_metrica": "Aumentar o índice de conciliação em relação à média do biênio",
+            "meta": "2026: Meta Nacional 3: aumentar o Índice de Conciliação na fase de conhecimento em 0,5 ponto percentual em relação à média do biênio 2023/2024 ou alcançar, no mínimo, 38% de conciliação.",
+            "periodo": "2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Conselho Superior",
+          "localizacao": "Página 29",
+          "evidencia_literal": "Perspectiva Processos Internos\nObjetivo Estratégico Assegurar o tratamento adequado dos conflitos trabalhistas\nIndicadores Índice de conciliação – IC\nMetas 2021: Meta Nacional 3: Estimular a conciliação - Aumentar o índice de conciliação em relação à média do biênio 2018/2019, em 1 ponto percentual. Cláusula de barreira: 40%.",
+          "justificativa": "A conciliação é um processo importante para resolver conflitos trabalhistas de forma eficiente, o que pode reduzir a necessidade de serviços terceirizados e melhorar a eficiência na gestão de contratos."
+        }
+      },
+      {
+        "objetivo_estrategico": "Garantir a efetividade do tratamento das demandas repetitivas",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de capacitação em precedentes obrigatórios - ICPO",
+            "formula_ou_metrica": "Capacitar 25% dos magistrados e servidores do 2º grau de jurisdição e 15% dos magistrados e servidores do 1º grau de jurisdição na trilha de aprendizagem de precedentes obrigatórios dispo",
+            "meta": "2025: Capacitar 25% dos magistrados e servidores do 2º grau de jurisdição e 15% dos magistrados e servidores do 1º grau de jurisdição na trilha de aprendizagem de precedentes obrigatórios disponibilizada em plataforma.",
+            "periodo": "2025"
+          },
+          {
+            "nome_indicador": "Índice de capacitação em precedentes obrigatórios - ICPO",
+            "formula_ou_metrica": "Capacitar 25% dos magistrados e servidores do 2º grau de jurisdição e 15% dos magistrados e servidores do 1º grau de jurisdição na trilha de aprendizagem de precedentes obrigatórios dispo",
+            "meta": "2026: Revogado pela 3ª Revisão Técnica.",
+            "periodo": "2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Conselho Superior",
+          "localizacao": "Página 29",
+          "evidencia_literal": "Perspectiva Processos Internos\nObjetivo Estratégico Garantir a efetividade do tratamento das demandas repetitivas\nIndicadores Índice de capacitação em precedentes obrigatórios - ICPO\nMetas 2025: Capacitar 25% dos magistrados e servidores do 2º grau de jurisdição e 15% dos magistrados e servidores do 1º grau de jurisdição na trilha de aprendizagem de precedentes obrigatórios disponibilizada em plataforma.",
+          "justificativa": "A capacitação em precedentes obrigatórios é relevante para a eficiência na gestão de demandas repetitivas, o que pode reduzir a necessidade de serviços terceirizados e melhorar a eficiência na utilização de recursos."
+        }
+      },
+      {
+        "objetivo_estrategico": "Fortalecer a Governança e a Gestão Estratégica",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de efetividade das ações de melhoria da governança pública - IEAMGP",
+            "formula_ou_metrica": "Alcançar 100% de efetividade das ações de melhoria da governança definidas no Relatório Sintético da Governança Organizacional Pública da Justiça do Trabalho.",
+            "meta": "2025: Alcançar 100% de efetividade das ações de melhoria da governança definidas no Relatório Sintético da Governança Organizacional Pública da Justiça do Trabalho.",
+            "periodo": "2025"
+          },
+          {
+            "nome_indicador": "Índice de efetividade das ações de melhoria da governança pública - IEAMGP",
+            "formula_ou_metrica": "Alcançar 100% de efetividade das ações de melhoria da governança definidas no Relatório Sintético da Governança Organizacional Pública da Justiça do Trabalho.",
+            "meta": "2026: Alcançar 100% de efetividade das ações de melhoria da governança definidas no Relatório Sintético da Governança Organizacional Pública da Justiça do Trabalho.",
+            "periodo": "2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Conselho Superior",
+          "localizacao": "Página 30",
+          "evidencia_literal": "Perspectiva Processos Internos\nObjetivo Estratégico Fortalecer a Governança e a Gestão Estratégica\nIndicadores Índice de efetividade das ações de melhoria da governança pública - IEAMGP\nMetas 2025: Alcançar 100% de efetividade das ações de melhoria da governança definidas no Relatório Sintético da Governança Organizacional Pública da Justiça do Trabalho.",
+          "justificativa": "A governança e gestão estratégica são fundamentais para a gestão adequada de contratos terceirizados, garantindo que os processos sejam transparentes e eficientes."
+        }
+      },
+      {
+        "objetivo_estrategico": "Aprimorar a governança de TIC e a proteção de dados",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de processos judiciais eletrônicos – IPJE",
+            "formula_ou_metrica": "Alcançar 100% de processos judiciais eletrônicos em relação ao acervo total.",
+            "meta": "2021: Meta Nacional 11: Aumentar a tramitação dos processos de forma eletrônica - Alcançar 100% de processos judiciais eletrônicos em relação ao acervo total.",
+            "periodo": "2021"
+          },
+          {
+            "nome_indicador": "Índice de transformação digital - ITD",
+            "formula_ou_metrica": "Implementar, durante o ano de 2022, as ações do Programa Justiça 4.0 nas unidades jurisdicionais do tribunal.",
+            "meta": "2022: Meta Nacional 10: implementar, durante o ano de 2022, as ações do Programa Justiça 4.0 nas unidades jurisdicionais do tribunal.",
+            "periodo": "2022"
+          },
+          {
+            "nome_indicador": "Índice de conformidade com a privacidade e proteção de dados dos usuários - ICPPDU",
+            "formula_ou_metrica": "Alcançar, no Indicador de Maturidade de Privacidade (iPriv) do Programa de Avaliação de Maturidade de Segurança Cibernética e Privacidade para a Justiça do Trabalho, nível superior ao aferido em 2025 ou manter nível igual ou superior a 4.",
+            "meta": "2025: Linha de base.",
+            "periodo": "2025"
+          },
+          {
+            "nome_indicador": "Índice de conformidade com a privacidade e proteção de dados dos usuários - ICPPDU",
+            "formula_ou_metrica": "Alcançar, no Indicador de Maturidade de Privacidade (iPriv) do Programa de Avaliação de Maturidade de Segurança Cibernética e Privacidade para a Justiça do Trabalho, nível superior ao aferido em 2025 ou manter nível igual ou superior a 4.",
+            "meta": "2026: Alcançar, no Indicador de Maturidade de Privacidade (iPriv) do Programa de Avaliação de Maturidade de Segurança Cibernética e Privacidade para a Justiça do Trabalho, nível superior ao aferido em 2025 ou manter nível igual ou superior a 4.",
+            "periodo": "2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Conselho Superior",
+          "localizacao": "Página 32",
+          "evidencia_literal": "Perspectiva Aprendizado e Crescimento\nObjetivo Estratégico Aprimorar a governança de TIC e a proteção de dados\nIndicadores Índice de processos judiciais eletrônicos – IPJE\nMetas 2021: Meta Nacional 11: Aumentar a tramitação dos processos de forma eletrônica - Alcançar 100% de processos judiciais eletrônicos em relação ao acervo total.",
+          "justificativa": "A governança de TIC e a proteção de dados são essenciais para a gestão segura e eficiente de contratos terceirizados, garantindo a segurança dos dados e a conformidade com as normas aplicáveis."
+        }
+      }
+    ]
+  },
+  "alinhamento_instituicao": {
+    "instrumento": "Plano Estratégico do Tribunal",
+    "declaracao_ausencia": null,
+    "objetivos_identificados": [
+      {
+        "objetivo_estrategico": "Aprimorar a governança de TIC e a proteção de dados",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de transformação digital ‐ ITD",
+            "formula_ou_metrica": "Não especificado nas páginas analisadas",
+            "meta": "Não especificado nas páginas analisadas",
+            "periodo": "2021-2026"
+          },
+          {
+            "nome_indicador": "Índice de Conformidade com a Privacidade e Proteção de Dados dos Usuários – ICPPDU",
+            "formula_ou_metrica": "Não especificado nas páginas analisadas",
+            "meta": "Não especificado nas páginas analisadas",
+            "periodo": "2021-2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Tribunal",
+          "localizacao": "Página 25, 27, 30, 35, 39, 41",
+          "evidencia_literal": "Aprimorar a governança de TIC e a proteção de dados",
+          "justificativa": "O objetivo estratégico 'Aprimorar a governança de TIC e a proteção de dados' está relacionado à gestão de contratos de terceirização, já que a proteção de dados é um requisito essencial na contratação de serviços terceirizados, especialmente em relação à segurança de informações e conformidade com normas de proteção de dados."
+        }
+      },
+      {
+        "objetivo_estrategico": "Aperfeiçoar a gestão orçamentária e financeira",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de cumprimento da Lei Complementar nº 200/2023 – ICLC200",
+            "formula_ou_metrica": "Não especificado nas páginas analisadas",
+            "meta": "Não especificado nas páginas analisadas",
+            "periodo": "2021-2026"
+          },
+          {
+            "nome_indicador": "Índice de aderência do planejamento da execução orçamentária – IAPEX",
+            "formula_ou_metrica": "Não especificado nas páginas analisadas",
+            "meta": "Não especificado nas páginas analisadas",
+            "periodo": "2021-2026"
+          },
+          {
+            "nome_indicador": "Índice de aderência do planejamento da execução orçamentária de projetos – IAPEP",
+            "formula_ou_metrica": "Não especificado nas páginas analisadas",
+            "meta": "Não especificado nas páginas analisadas",
+            "periodo": "2021-2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Tribunal",
+          "localizacao": "Página 30, 35, 39",
+          "evidencia_literal": "Aperfeiçoar a gestão orçamentária e financeira",
+          "justificativa": "O objetivo estratégico 'Aperfeiçoar a gestão orçamentária e financeira' está relacionado à gestão de contratos de terceirização, já que a gestão financeira é um aspecto fundamental na contratação e fiscalização de serviços terceirizados, garantindo a otimização dos recursos públicos e a conformidade com normas financeiras."
+        }
+      },
+      {
+        "objetivo_estrategico": "Fortalecer a Governança e a Gestão Estratégica",
+        "classificacao_correlacao": "Correlação Parcial",
+        "indicadores": [
+          {
+            "nome_indicador": "Índice de efetividade das ações de melhoria da governança pública – IEAMGP",
+            "formula_ou_metrica": "Não especificado nas páginas analisadas",
+            "meta": "Não especificado nas páginas analisadas",
+            "periodo": "2021-2026"
+          }
+        ],
+        "evidencias_documentais": {
+          "documento_origem": "Plano Estratégico do Tribunal",
+          "localizacao": "Página 34, 39",
+          "evidencia_literal": "Fortalecer a Governança e a Gestão Estratégica",
+          "justificativa": "O objetivo estratégico 'Fortalecer a Governança e a Gestão Estratégica' está relacionado à gestão de contratos de terceirização, já que a governança é um aspecto essencial na contratação e fiscalização de serviços terceirizados, garantindo a transparência e a eficiência na utilização dos serviços terceirizados."
+        }
+      }
+    ]
+  },
+  "macroprocessos_cadeia_valor": {
+    "instrumento": "Cadeia de Valor do órgão",
+    "declaracao_ausencia": null,
+    "macroprocessos_identificados": [
+      {
+        "macroprocesso": "Gestão de Contratações",
+        "tipo_ou_nivel_macroprocesso": "Macroprocessos de Apoio",
+        "classificacao_correlacao": "Correlação Direta Comprovada",
+        "evidencias_documentais": {
+          "documento_origem": "Cadeia de Valor do órgão",
+          "localizacao": "Página 23, Seção 7.5 GESTÃO ADMINISTRATIVA",
+          "evidencia_literal": "Governança e gestão de contratações\nNormas, políticas, diretrizes, estratégias para gestão de contratações;\nPlano anual de compras; \nProcessos e projetos geridos e controlados;\nMecanismos para gestão dos riscos nas contratações adotados;\nRecursos orçamentários otimizados.",
+          "justificativa": "O macroprocesso 'Governança e gestão de contratações' na Seção 7.5 GESTÃO ADMINISTRATIVA está diretamente relacionado ao objeto da auditoria que é 'Gestão e fiscalização dos contratos de terceirização de mão-de-obra'. O trecho menciona 'Normas, políticas, diretrizes, estratégias para gestão de contratações' e 'Mecanismos para gestão dos riscos nas contratações', o que se alinha com o objetivo de avaliar se a gestão e fiscalização dos contratos estão aderentes aos critérios e às boas práticas aplicáveis."
+        }
+      },
+      {
+        "macroprocesso": "Gestão de Pessoas",
+        "tipo_ou_nivel_macroprocesso": "Macroprocessos de Apoio",
+        "classificacao_correlacao": "Correlação Direta Comprovada",
+        "evidencias_documentais": {
+          "documento_origem": "Cadeia de Valor do órgão",
+          "localizacao": "Página 18, Seção 7.1 GESTÃO DE PESSOAS",
+          "evidencia_literal": "Governança e Gestão de pessoas\nNormas, políticas, diretrizes, estratégias para gestão de pessoas;\nPlano Diretor de Gestão de Pessoas;\nProcessos e projetos geridos e controlados;\nRelatório anual de execução do Plano Diretor;\nIndicadores de desempenho na área de gestão de pessoas monitorados;\nDivulgações (internas e externas) das ações, projetos, produtos e resultados da gestão de pessoas do Tribunal.",
+          "justificativa": "O macroprocesso 'Governança e Gestão de pessoas' na Seção 7.1 GESTÃO DE PESSOAS está relacionado ao objeto da auditoria, pois a gestão de pessoas inclui a gestão de contratos de terceirização de mão-de-obra. O trecho menciona 'Normas, políticas, diretrizes, estratégias para gestão de pessoas', o que se alinha com o objetivo de avaliar se a gestão e fiscalização dos contratos estão aderentes aos critérios e às boas práticas aplicáveis."
+        }
+      },
+      {
+        "macroprocesso": "Gestão de Tecnologia da Informação e Comunicação",
+        "tipo_ou_nivel_macroprocesso": "Macroprocessos de Apoio",
+        "classificacao_correlacao": "Correlação Parcial",
+        "evidencias_documentais": {
+          "documento_origem": "Cadeia de Valor do órgão",
+          "localizacao": "Página 21, Seção 7.3 GESTÃO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO",
+          "evidencia_literal": "Governança e gestão de TIC\nPlano estratégico de TIC;\nPlano Diretor de TIC;\nEstrutura organizacional de TIC alinhada;\nProcessos de trabalho estratégicos e mecanismos de controle geridos.",
+          "justificativa": "O macroprocesso 'Governança e gestão de TIC' na Seção 7.3 GESTÃO DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO menciona 'mecanismos de controle geridos', o que tem uma relação parcial com a fiscalização dos contratos, mas não é específico para contratos de terceirização de mão-de-obra."
+        }
+      },
+      {
+        "macroprocesso": "Gestão Administrativa",
+        "tipo_ou_nivel_macroprocesso": "Macroprocessos de Apoio",
+        "classificacao_correlacao": "Correlação Direta Comprovada",
+        "evidencias_documentais": {
+          "documento_origem": "Cadeia de Valor do órgão",
+          "localizacao": "Página 23, Seção 7.5 GESTÃO ADMINISTRATIVA",
+          "evidencia_literal": "Governança e gestão de contratações\nNormas, políticas, diretrizes, estratégias para gestão de contratações;\nPlano anual de compras; \nProcessos e projetos geridos e controlados;\nMecanismos para gestão dos riscos nas contratações adotados;\nRecursos orçamentários otimizados.",
+          "justificativa": "O macroprocesso 'Gestão Administrativa' na Seção 7.5 GESTÃO ADMINISTRATIVA inclui 'Governança e gestão de contratações', que está diretamente relacionado ao objeto da auditoria. O trecho menciona 'Normas, políticas, diretrizes, estratégias para gestão de contratações', o que se alinha com o objetivo de avaliar se a gestão e fiscalização dos contratos estão aderentes aos critérios e às boas práticas aplicáveis."
+        }
+      }
+    ]
+  },
+  "lacunas_e_ausencias": [],
+  "sintese_executiva": {
+    "resumo_geral": "A auditoria sobre a gestão e fiscalização dos contratos de terceirização de mão-de-obra no TRT5 demonstra alinhamento parcial com os objetivos estratégicos do Órgão Superior e da Instituição, com correlações diretas comprovadas em Gestão de Contratações, Gestão de Pessoas e Gestão Administrativa. A análise revela que a gestão dos contratos terceirizados está alinhada com a Governança de Contratações e a otimização de recursos, mas há lacunas na documentação que limitam a correlação total com os objetivos estratégicos, especialmente em relação à Governança de TIC e proteção de dados.",
+    "alinhamentos_comprovados": [
+      "Objetivo do Órgão Superior: Fortalecer a Governança e a Gestão Estratégica (2 indicadores)",
+      "Objetivo do Órgão Superior: Aprimorar a governança de TIC e a proteção de dados (4 indicadores)",
+      "Objetivo da Instituição: Aprimorar a governança de TIC e a proteção de dados (2 indicadores)",
+      "Macroprocesso: Gestão de Contratações (Correlação Direta Comprovada)",
+      "Macroprocesso: Gestão de Pessoas (Correlação Direta Comprovada)",
+      "Macroprocesso: Gestão Administrativa (Correlação Direta Comprovada)"
+    ],
+    "alinhamentos_nao_identificados": [
+      "Objetivo do Órgão Superior: Garantir a duração razoável do processo (6 indicadores)",
+      "Objetivo do Órgão Superior: Promover a integridade e a transparência em relação aos atos de gestão praticados (1 indicador)",
+      "Objetivo do Órgão Superior: Assegurar o tratamento adequado dos conflitos trabalhistas (6 indicadores)",
+      "Objetivo do Órgão Superior: Garantir a efetividade do tratamento das demandas repetitivas (2 indicadores)",
+      "Objetivo da Instituição: Aperfeiçoar a gestão orçamentária e financeira (3 indicadores)",
+      "Objetivo da Instituição: Fortalecer a Governança e a Gestão Estratégica (1 indicador)",
+      "Macroprocesso: Gestão de Tecnologia da Informação e Comunicação (Correlação Parcial)"
+    ]
+  }
+}
